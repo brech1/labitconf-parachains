@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Unbounded;
+    src: url("./fonts/Unbounded-Regular.woff2") format("woff2");
+    font-weight: regular;
+}
+
+@font-face {
+    font-family: Unbounded;
+    src: url("./fonts/Unbounded-Bold.woff2") format("woff2");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: NeueMachina;
+    src: url("./fonts/NeueMachina-Light.otf") format("opentype");
+    font-weight: light;
+}
+
+@font-face {
+    font-family: NeueMachina;
+    src: url("./fonts/NeueMachina-Regular.otf") format("opentype");
+    font-weight: regular;
+}
+
+@font-face {
+    font-family: NeueMachina;
+    src: url("./fonts/NeueMachina-Ultrabold.otf") format("opentype");
+    font-weight: bold;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: Unbounded !important;
+    font-weight: light !important;
+}
+
+span.title-lab {
+    font-family: NeueMachina !important;
+    font-weight: bold !important;
+}
+
+span.title-it {
+    font-family: NeueMachina !important;
+    font-weight: regular !important;
+}
+
+span.title-conf {
+    font-family: NeueMachina !important;
+    font-weight: light !important;
+}
