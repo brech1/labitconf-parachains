@@ -4,7 +4,6 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                neueMachina: ["NeueMachina"],
                 unbounded: ["Unbounded"],
             },
             colors: {

@@ -14,24 +14,6 @@
     font-weight: bold;
 }
 
-@font-face {
-    font-family: NeueMachina;
-    src: url("./fonts/NeueMachina-Light.otf") format("opentype");
-    font-weight: light;
-}
-
-@font-face {
-    font-family: NeueMachina;
-    src: url("./fonts/NeueMachina-Regular.otf") format("opentype");
-    font-weight: regular;
-}
-
-@font-face {
-    font-family: NeueMachina;
-    src: url("./fonts/NeueMachina-Ultrabold.otf") format("opentype");
-    font-weight: bold;
-}
-
 h1,
 h2,
 h3,
@@ -40,20 +22,5 @@ h5,
 h6,
 p {
     font-family: Unbounded !important;
-    font-weight: light !important;
-}
-
-span.title-lab {
-    font-family: NeueMachina !important;
-    font-weight: bold !important;
-}
-
-span.title-it {
-    font-family: NeueMachina !important;
-    font-weight: regular !important;
-}
-
-span.title-conf {
-    font-family: NeueMachina !important;
-    font-weight: light !important;
+    font-weight: normal !important;
 }

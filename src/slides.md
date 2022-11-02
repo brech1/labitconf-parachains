@@ -7,7 +7,7 @@ theme: night
 
 <div class="w-full h-full">
   <div class="flex mr-auto pb-24">
-    <span class="title-lab">LAB</span><span class="title-it">IT</span><span class="title-conf">CONF</span>
+    <img class="h-12" alt="labitconf" src="./assets/labitconf.svg">
   </div>
   <p class="pb-12">Qué son y cómo funcionan las Parachains</p>
   <div class="flex mr-auto items-center">
