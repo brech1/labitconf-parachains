@@ -18,6 +18,60 @@ theme: night
 
 ---
 
-# Parachains
+<!-- .slide: data-background="../assets/img/parachains.svg" -->
 
 ----
+
+- Seguridad
+- Interoperabilidad
+- Escalabilidad
+
+----
+
+### Seguridad
+
+----
+
+### Interoperabilidad
+
+----
+
+### Escalabilidad
+
+---
+
+### Parachains
+
+<!-- Que son -->
+
+----
+
+### Propiedades
+
+----
+
+### Dificultad
+
+---
+
+### Como se valida una parachain?
+
+----
+
+### Collators
+
+----
+
+### Validators
+
+----
+
+### Relay chain
+
+----
+
+<!-- .slide: data-background="../assets/img/parachains.svg" -->
+
+<div class="flex content-center justify-center w-full">
+  <img class="w-64" alt="dot" src="../assets/img/polkadot-logo-white.svg">
+</div>
