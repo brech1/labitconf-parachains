@@ -635,6 +635,10 @@ video {
   width: 66.666667%;
 }
 
+.w-1\/12 {
+  width: 8.333333%;
+}
+
 .grid-cols-3 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
@@ -716,6 +720,10 @@ video {
 
 .pt-20 {
   padding-top: 5rem;
+}
+
+.pl-4 {
+  padding-left: 1rem;
 }
 
 .text-left {
