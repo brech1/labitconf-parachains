@@ -1,5 +1,5 @@
 ---
-title: Parachains - Español
+title: Parachains
 revealOptions:
   transition: slide
 theme: night
@@ -107,9 +107,9 @@ theme: night
 
 <div class="w-full h-full">
   <p>Parachain</p>
-  <div class="flex w-full justify-around pt-8">
-    <img class="w-4/12" alt="parachain" src="../assets/img/parachain-icon.svg">
-    <div class="flex flex-col w-6/12 justify-around items-start text-left">
+  <div class="flex justify-between pt-8">
+    <img class="w-3/12" alt="chain" src="../assets/img/parachain-icon.svg">
+    <div class="flex flex-col w-8/12 justify-around items-start text-left">
       <p class="text-2xl">- Blockchain soberana</p>
       <p class="text-2xl">- Optimizada para una funcionalidad específica</p>
     </div>
@@ -211,9 +211,9 @@ theme: night
 
 <div class="w-full h-full">
   <p>Usos óptimos</p>
-  <div class="flex w-full justify-around pt-8">
-    <img class="w-4/12" alt="parachain" src="../assets/img/parachain-icon.svg">
-    <div class="flex flex-col w-4/12 justify-around items-start text-left">
+  <div class="flex justify-between pt-8">
+    <img class="w-3/12" alt="chain" src="../assets/img/parachain-icon.svg">
+    <div class="flex flex-col w-8/12 justify-around items-start text-left">
       <p class="text-2xl">- Alta complejidad</p>
       <p class="text-2xl">- Alto nivel de TPS</p>
       <p class="text-2xl">- Ecosistemas</p>
